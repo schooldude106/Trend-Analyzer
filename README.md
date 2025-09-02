@@ -294,10 +294,6 @@ CA,Los Angeles,Los Angeles,850000,3200,567,245,45,3.2,2025-01-15,zillow_research
 - Update documentation for API changes
 - Test with both API keys and fallback data
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 This tool is for informational and educational purposes only. The housing market data and analysis provided should not be considered as financial or investment advice. Always consult with qualified professionals before making real estate decisions.
@@ -333,12 +329,6 @@ python -c "import os; print('Keys configured:', bool(os.getenv('CENSUS_API_KEY')
 states = ['CA', 'TX']  # Instead of all states
 date_range = 6  # Instead of 12 months
 ```
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/housing-market-analyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/housing-market-analyzer/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/housing-market-analyzer/wiki)
 
 ## 🏆 Acknowledgments
 
